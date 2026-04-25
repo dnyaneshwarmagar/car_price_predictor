@@ -3,7 +3,7 @@
 Project link: 
 
 
-<img src="https://github.com/dnyaneshwarmagar/car_price_predictor/blob/master/demo.png">
+<img src="https://github.com/dnyaneshwarmagar/car_price_predictor/blob/main/demo.png">
 
 
 
@@ -11,7 +11,7 @@ Project link:
 
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
 
-<img src="https://github.com/dnyaneshwarmagar/car_price_predictor/blob/master/predict.png">
+<img src="https://github.com/dnyaneshwarmagar/car_price_predictor/blob/main/predict.png">
 
 ## How to use?
 
@@ -38,13 +38,13 @@ And you are good to go.
 ## How this project does?
 
 1. First of all the data was scraped from Quikr.com (https://quikr.com) 
-Link for data: https://github.com/dnyaneshwarmagar/car_price_predictor/blob/master/quikr_car.csv
+Link for data: https://github.com/dnyaneshwarmagar/car_price_predictor/blob/main/quikr_car.csv
 
 2. The data was cleaned (it was super unclean :( ) and analysed.
 
 3. Then a Linear Regression model was built on top of it which had 0.92 R2_score.
 
-Link for notebook: https://github.com/dnyaneshwarmagar/car_price_predictor/blob/master/Quikr%20Analysis.ipynb
+Link for notebook: https://github.com/dnyaneshwarmagar/car_price_predictor/blob/main/Quikr%20Analysis.ipynb
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
 
